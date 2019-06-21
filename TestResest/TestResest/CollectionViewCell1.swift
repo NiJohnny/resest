@@ -9,7 +9,7 @@
 import UIKit
 
 class CollectionViewCell1: UICollectionViewCell {
-    
-    let ub1 : UIButton = UIButton()
-    
+
+    let ub1: UIButton = UIButton()
+    let ub2: UIButton = UIButton()
 }
