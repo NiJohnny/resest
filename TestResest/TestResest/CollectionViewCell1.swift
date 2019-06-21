@@ -12,4 +12,5 @@ class CollectionViewCell1: UICollectionViewCell {
 
     let ub1: UIButton = UIButton()
     let ub2: UIButton = UIButton()
+    let ub3: UIButton = UIButton()
 }
